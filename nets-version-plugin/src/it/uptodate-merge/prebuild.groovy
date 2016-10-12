@@ -1,0 +1,1 @@
+it.netsw.maven.buildhelper.FixtureUtils.createResources( "target/it/uptodate-merge" )
